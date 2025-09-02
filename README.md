@@ -54,7 +54,7 @@ Clone the repository:
 git clone https://github.com/yourusername/NSL-KDD-IDS.git
 cd NSL-KDD-IDS
 
-
+```
 Create and activate a virtual environment (recommended):
 
 python3 -m venv venv
