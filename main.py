@@ -321,8 +321,8 @@ def main(train_file="KDDTrain+.txt", test_file="KDDTest+.txt"):
 # Run the complete analysis
 if __name__ == "__main__":
     # Update these paths to match your file locations
-    train_file_path = "KDDTrain+.txt"  # Update this path
-    test_file_path = "KDDTest+.txt"    # Update this path
+    train_file_path = "/datasets/KDDTrain+.txt"  # Update this path
+    test_file_path = "/datasets/KDDTest+.txt"    # Update this path
     
     # If your files are in a different location, modify the paths:
     # train_file_path = "/path/to/your/KDDTrain+.txt"
